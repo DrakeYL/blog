@@ -2,7 +2,7 @@
 
 ### 挂载
 1. constructor()
-2.static getDerivedStateFromProps()
+2. static getDerivedStateFromProps()
 3.render()
 4.componentDidMount()
 
